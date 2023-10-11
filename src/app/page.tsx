@@ -1,5 +1,5 @@
 export default function HomePage () {
     return (
-        <h1>Automotora Lopez</h1>
+        <h1></h1>
     );
 }
